@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mimer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mimer\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\mimer\source\repos\2darray\2darray\bin\Debug\netcoreapp3.0\2darray.exe
+C:\Users\mimer\source\repos\2darray\2darray\bin\Debug\netcoreapp3.0\2darray.deps.json
+C:\Users\mimer\source\repos\2darray\2darray\bin\Debug\netcoreapp3.0\2darray.runtimeconfig.json
+C:\Users\mimer\source\repos\2darray\2darray\bin\Debug\netcoreapp3.0\2darray.runtimeconfig.dev.json
+C:\Users\mimer\source\repos\2darray\2darray\bin\Debug\netcoreapp3.0\2darray.dll
+C:\Users\mimer\source\repos\2darray\2darray\bin\Debug\netcoreapp3.0\2darray.pdb
+C:\Users\mimer\source\repos\2darray\2darray\obj\Debug\netcoreapp3.0\2darray.csprojAssemblyReference.cache
+C:\Users\mimer\source\repos\2darray\2darray\obj\Debug\netcoreapp3.0\2darray.AssemblyInfoInputs.cache
+C:\Users\mimer\source\repos\2darray\2darray\obj\Debug\netcoreapp3.0\2darray.AssemblyInfo.cs
+C:\Users\mimer\source\repos\2darray\2darray\obj\Debug\netcoreapp3.0\2darray.dll
+C:\Users\mimer\source\repos\2darray\2darray\obj\Debug\netcoreapp3.0\2darray.pdb
